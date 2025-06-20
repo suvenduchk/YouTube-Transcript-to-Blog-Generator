@@ -1,0 +1,8 @@
+crewai
+crewai_tools
+python-dotenv
+langchain-huggingface
+beautifulsoup4
+yt-dlp
+groq
+streamlit
